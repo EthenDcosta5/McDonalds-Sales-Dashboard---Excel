@@ -17,8 +17,7 @@ This project involves creating an interactive and dynamic sales dashboard in Mic
 
 ## Dataset
 The dataset used for this analysis includes McDonald’s sales records, capturing details such as order dates, menu categories, items, and revenues.
-
-**Dataset Link:** [Dataset](#)
+You can find it in the excel-files.rar folder.
 
 ### Pre-Processing Steps:
 1. **Remove Duplicates**: Ensure no duplicate records are present.
